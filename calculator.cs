@@ -34,7 +34,7 @@ public class CalCulator
 	public int Subtract(int a, int b )
 		{
 			
-			a-b
+			return a-b;
 		}
 }
 
