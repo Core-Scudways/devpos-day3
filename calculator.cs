@@ -15,7 +15,7 @@ public class CalCulator
 	// Add two integers and // TO DOs the sum
 	public int Add(int a, int b )
 		{
-			// TO DO 
+			return a+b;
 		}
 		
 	// Add two integers and // TO DOs the sum
