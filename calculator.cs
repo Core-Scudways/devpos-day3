@@ -9,7 +9,7 @@ public class CalCulator
 	// Square function
 	public int Square(int num)
 		{
-			int result = 0;
+			int result = 1;
 			result = num * num;
 			retrun result;
 		}
